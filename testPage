@@ -1,0 +1,12 @@
+<!DOCTYPE hmtl>
+<html>
+  <head>
+    <title>Bruins Logo</title>
+  </head>
+  <body>
+    <h1>Bruins Logo!</h1>
+    <a href="https://en.wikipedia.org/wiki/Boston_Bruins">
+      <img src="https://upload.wikimedia.org/wikipedia/en/thumb/1/12/Boston_Bruins.svg/227px-Boston_Bruins.svg.png" />
+    </a>
+  </body>
+</html>
